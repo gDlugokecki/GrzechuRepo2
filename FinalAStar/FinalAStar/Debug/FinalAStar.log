@@ -1,0 +1,3 @@
+﻿  FinalAStar.cpp
+c:\users\grzes\source\repos\finalastar\finalastar\finalastar.cpp(118): warning C4715: 'Move': not all control paths return a value
+  FinalAStar.vcxproj -> C:\Users\grzes\source\repos\FinalAStar\Debug\FinalAStar.exe
